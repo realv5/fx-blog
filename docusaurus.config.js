@@ -9,6 +9,7 @@ module.exports = {
     organizationName: 'facebook', // Usually your GitHub org/user name.
     projectName: 'docusaurus', // Usually your repo name.
     themeConfig: {
+        hideableSidebar: true,
         navbar: {
             title: 'fx-blog',
             logo: {
