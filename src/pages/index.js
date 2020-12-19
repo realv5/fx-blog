@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-          前端实践者
+          前端学习实践者
       </>
     ),
   },
