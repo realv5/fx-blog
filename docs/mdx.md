@@ -3,6 +3,12 @@ id: mdx
 title: Powered by MDX
 ---
 
+http://zeit.co/
+
+https://vercel.com/
+
+github 账号
+
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
 
 export const Highlight = ({children, color}) => ( <span style={{
