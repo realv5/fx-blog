@@ -1,6 +1,6 @@
 module.exports = {
     someSidebar: {
-        '说明': ['doc1'],
+        '算法': ['algorithm1'],
         '人生': ['mdx2'],
     },
 };
