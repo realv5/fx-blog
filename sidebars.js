@@ -1,6 +1,7 @@
 module.exports = {
     someSidebar: {
         '算法': ['algorithm1'],
-        '人生': ['mdx2'],
+		'Linux': ['linux1'],
+        '感悟': ['mdx2'],
     },
 };
